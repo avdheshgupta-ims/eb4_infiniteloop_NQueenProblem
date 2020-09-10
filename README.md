@@ -49,7 +49,7 @@ CSE/IT subject code-KCS553
 <b>Mentored by | <b> Senthil Subramanian
 :--|:--|
 <b> Institute | <b> Hindustan college of science and technology
-<b> Email id|     <b> pss.senthil.hcst@hgei.org
+<b> Email id|     <b> tss.senthil.hcst@sgei.org
 <b> Department | CS
 
 #### Contributors List
