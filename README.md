@@ -27,9 +27,9 @@ B. Tech.
 
 Dr. APJ Abdul Kalam Technical University, Luckhnow.
 
-<b>Name of Developer | <b>Dr. Avdhesh gupta
+<b>Name of Developer | <b>Dr. Avdhesh Gupta
 :--|:--|
-<b> Institute | <b>IMS engineering college
+<b> Institute | <b>IMS Engineering College
 <b> Email id|     <b> avvipersona@gmail.com
 <b> Department | Information Technology
 
