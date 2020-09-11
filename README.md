@@ -6,7 +6,7 @@ Remove this line before submitting : To Refer a filled sample of this template v
 <b>Discipline | <b>COMPUTER SCIENCE AND ENGINEERING/INFORMATION TECHNOLOGY
 :--|:--|
 <b> Lab | <b> DATA AND ANALYSIS OF ALGORITHM LAB
-<b> Experiment|     <b> Knapsack Using Greedy Algorithm
+<b> Experiment|     <b> N Queen Problem
 
 <h5> About the Lab: </h5>
 This lab is related to CSE and IT branch. In this lab we can learn design and analysis of algorithms with their Time and Space Complexities
