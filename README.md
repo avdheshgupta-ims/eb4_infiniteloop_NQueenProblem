@@ -9,11 +9,11 @@ Remove this line before submitting : To Refer a filled sample of this template v
 <b> Experiment|     <b> N Queen Problem
 
 <h5> About the Lab: </h5>
-This lab is related to CSE and IT branch. In this lab we can learn design and analysis of algorithms with their Time and Space Complexities
+This lab is related to CSE and IT branch. In this lab the user will learn design and analysis of algorithms with their Time and Space Complexities.
 
 
 <h5> About the Experiment : </h5>
-In this experiment we need to find an arrangement of N queens on a chess board, such that no Queen can attack any other Queens on the board and we will develop a stimulator for that.
+This experiment is about to find an arrangement of N queens on a chess board, such that no Queen can attack any other Queens on the board.
 
 <h5> Target Audience : </h5>
 
