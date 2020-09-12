@@ -27,10 +27,10 @@ Remove this line before submitting : To Refer a filled sample of this template v
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| User will be able to explain Backtracking algorithm  | Understanding  | Explain
-2.| User will be able to describe Time Complexity | Understanding | Describe
-3.| User will be able to analyse the matrices | Analyse | Analyse
-4.| User will be able to evaluate the place of queens in such a way that no queen attack each other | Evaluate | Evaluate
+1.| User will be able to explain Backtracking algorithm  | Understand  | <b>Explain</b>
+2.| User will be able to describe Time Complexity | Understand | <b>Describe</b>
+3.| User will be able to analyse the matrices | Analyse | <b>Analyze</b>
+4.| User will be able to evaluate the place of queens in such a way that no queen attack each other | Evaluate | <b>Evaluate</b>
 
 
 <br/>
