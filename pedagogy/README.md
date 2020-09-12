@@ -10,7 +10,7 @@ Remove this line before submitting : To Refer a filled sample of this template v
 <b>Discipline | <b>COMPUTER SCIENCE & ENGINEERING/INFORMATION TECHNOLOGY
 :--|:--|
 <b> Lab | <b> DATA AND ANALYSIS OF ALGORITHM LAB
-<b> Experiment|     <b> 1. Name of the experiment
+<b> Experiment|     <b> N Queen Problem
 
 
 <h4> [1. Focus Area](#LO)
@@ -28,10 +28,10 @@ Remove this line before submitting : To Refer a filled sample of this template v
 
 Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 :--|:--|:--|:-:
-1.| User will be able to explain Backtracking algorithm  | Understanding (http://vlabs.iitb.ac.in/vlabs-dev/document.php) | Explain(http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-2.| User will be able to describe Time Complexity | Understanding(http://vlabs.iitb.ac.in/vlabs-dev/document.php) | Describe(http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-3.| User will be able to analyse the matrices | Analyse(http://vlabs.iitb.ac.in/vlabs-dev/document.php) | Analyse(http://vlabs.iitb.ac.in/vlabs-dev/document.php)
-4.| User will be able to evaluate the place of queens in such a way that no queen attack each other | Evaluate(http://vlabs.iitb.ac.in/vlabs-dev/document.php) | Evaluate(http://vlabs.iitb.ac.in/vlabs-dev/document.php)
+1.| User will be able to explain Backtracking algorithm  | Understanding  | Explain
+2.| User will be able to describe Time Complexity | Understanding | Describe
+3.| User will be able to analyse the matrices | Analyse | Analyse
+4.| User will be able to evaluate the place of queens in such a way that no queen attack each other | Evaluate | Evaluate
 
 
 <br/>
@@ -67,16 +67,16 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
-1.| User will be able to explain Backtracking algorithm  | Show with simulation of the algorithm with an example | 1.	What happens when backtracking algorithm reaches a complete solution? <br>
-a.	Backtracks root <br>
-b.	Continue search for other solution <br>
-<b>c.	Traverses from different route</b> <br>
-d.	Recursively traverses through same route <br>            
-2.	Backtracking can be used o solve? <br>
-a.    Numerical problem <br>
-b.    Exhaustive search <br>
-<b>c.    Combinational problem</b> <br>
-d.    Graph coloring problem  <br>      
+1.| User will be able to explain Backtracking algorithm  | Show with simulation of the algorithm with an example | 1.	What happens when backtracking algorithm reaches a complete solution? 
+a.	Backtracks root 
+b.	Continue search for other solution 
+<b>c.	Traverses from different route</b> 
+d.	Recursively traverses through same route             
+2.	Backtracking can be used o solve? 
+a.    Numerical problem 
+b.    Exhaustive search 
+<b>c.    Combinational problem</b> 
+d.    Graph coloring problem       
 
 2.| 2.	User will be able to describe Time Complexity		
  | Show how time complexity works | 1.	What is the time complexity of n queens problem? <br>
