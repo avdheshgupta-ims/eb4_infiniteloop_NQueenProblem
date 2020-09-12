@@ -45,7 +45,7 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 ###### Name of Instructional Strategy  :    <u> Problem Based
 ###### Assessment Method: Formative Assessment
 
-<u> <b>Description: </b> The user will learn and examine the problem, recall the understanding and apply to fix the place of queens in such a way that no queen attack each other.  Simulator:
+<u> <b>Description: </b> The user will learn and examine the problem, recall the understanding and apply to fix the place of queens in such a way that no queen attack each other. <br> <b>Simulator:</b>
  </u>
 <br>
   1.	First, start placing queen anywhere on the board and then place the next queen in any of the safe place as queen can attack horizontally, vertically, or diagonally.
