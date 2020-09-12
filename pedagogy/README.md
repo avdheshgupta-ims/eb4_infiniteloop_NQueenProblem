@@ -67,19 +67,9 @@ Read the theory and comprehend the concepts related to the experiment. [LO1, LO2
 
 Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the simulator | Assessment Questions as per LO & Task
 :--|:--|:--|:-:
-1.| User will be able to explain Backtracking algorithm  | Show with simulation of the algorithm with an example | 1.	What happens when backtracking algorithm reaches a complete solution? 
-a.	Backtracks root 
-b.	Continue search for other solution 
-<b>c.	Traverses from different route</b> 
-d.	Recursively traverses through same route             
-2.	Backtracking can be used o solve? 
-a.    Numerical problem 
-b.    Exhaustive search 
-<b>c.    Combinational problem</b> 
-d.    Graph coloring problem       
+1.| User will be able to explain Backtracking algorithm  | Show with simulation of the algorithm with an example | 1.	What happens when backtracking algorithm reaches a complete solution?<br> a.	Backtracks root  <br>b.	Continue search for other solution  <br><b>c.	Traverses from different route</b>  <br>d.	Recursively traverses through same route     <br>2.	Backtracking can be used o solve?  <br>a.    Numerical problem  <br>b.    Exhaustive search  <br><b>c.    Combinational problem</b>  <br>d.    Graph coloring problem       
 
-2.| 	User will be able to describe Time Complexity		
- | Show how time complexity works | 1.	What is the time complexity of n queens problem? <br><b>a.	o(n)</b> <br>b.	o(log) <br>c.	o(n^2) <br>d.	o(nlogn) <br>2.The complexity of Binary search algorithm is? <br>a.	o(n) <br><b>b.	o(log)</b> <br>c.	o(n^2) <br>d.	o(nlogn) <br>                                     
+2.| 	User will be able to describe Time Complexity| Show how time complexity works | 1.	What is the time complexity of n queens problem? <br><b>a.	o(n)</b> <br>b.	o(log) <br>c.	o(n^2) <br>d.	o(nlogn) <br>2.The complexity of Binary search algorithm is? <br>a.	o(n) <br><b>b.	o(log)</b> <br>c.	o(n^2) <br>d.	o(nlogn) <br>                                     
 3.| User will be able to analyze the matrices | Display how can the simulator will analyze the matrices. | 	1.	Which of the following don’t use matrices? <br>a. solving linear equation <br>b. image processing <br>c. graph theory <br><b>d. sorting numbers </b>  <br>2. what is the order of the matrices? <br><b>a. no. of rows*no.of columns</b> <br>b. no. of column*no. of rows  <br>c. no.of rows*no. of rows  <br>d. no.of columns* no. of columns  <br>                            
 
 
