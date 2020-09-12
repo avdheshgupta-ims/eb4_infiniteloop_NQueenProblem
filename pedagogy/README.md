@@ -30,7 +30,7 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 1.| User will be able to <b>explain</b> Backtracking algorithm  | Understand  | <b>Explain</b>
 2.| User will be able to <b>describe</b> Time Complexity | Understand | <b>Describe</b>
 3.| User will be able to <b>analyse</b> the matrices | Analyse | <b>Analyze</b>
-4.| User will be able to <b>evaluate</b> the place of queens in such a way that no queen attack each other | Evaluate | <b>Evaluate</b>
+4.| User will be able to <b>evaluate</b> the placement of queens in such a way that no queen attack each other | Evaluate | <b>Evaluate</b>
 
 
 <br/>
