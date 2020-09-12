@@ -3,14 +3,13 @@
 
 Remove this line before submitting : To Refer a filled sample of this template visit here : <br> http://vlabs.iitb.ac.in/gitlab/Community-Docs/New-Lab-development/Samples
 <br>
-<br>
-<b>  <a name="top"></a> <br>
+<br>  <a name="top"></a> <br>
 </p>
 
 <b>Discipline | <b>COMPUTER SCIENCE & ENGINEERING/INFORMATION TECHNOLOGY
 :--|:--|
 <b> Lab | <b> DATA AND ANALYSIS OF ALGORITHM LAB
-<b> Experiment|     <b> N Queen Problem<
+<b> Experiment|     <b> N Queen Problem
 
 
 <h4> [1. Focus Area](#LO)
@@ -92,7 +91,7 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 
 Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 :--|:--|:--|:--:
-1.| Show with simulation of the algorithm with an example | 	Simulate sorting with and example	Learn sorting  |Learn sorting
+1.| Show with simulation of the algorithm with an example | Simulate sorting with and example	Learn sorting  |Learn sorting
 2.| 2.	Show how time complexity works		 | Calculate how time complexity calculated  | To learn how time complexity calculated
 3.| 3.	Display how can the simulator will analyze the matrices.		 | Simulator check and find the metrices | To know about the metrices
 4.| 4.	Show the working model of n-queen problem		| Simulate n-queen problem and show the result | Learn how the n queen problem works
