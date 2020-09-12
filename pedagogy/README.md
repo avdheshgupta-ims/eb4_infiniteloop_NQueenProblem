@@ -78,39 +78,12 @@ b.    Exhaustive search
 <b>c.    Combinational problem</b> 
 d.    Graph coloring problem       
 
-2.| 2.	User will be able to describe Time Complexity		
- | Show how time complexity works | 1.	What is the time complexity of n queens problem? <br>
-<b>a.	o(n)</b> <br>
-b.	o(log) <br>
-c.	o(n^2) <br>
-d.	o(nlogn) <br>                                     
-2.The complexity of Binary search algorithm is? <br>
-a.	o(n) <br>
-<b>b.	o(log)</b> <br>
-c.	o(n^2) <br>
-d.	o(nlogn) <br>                                     
-3.| User will be able to analyze the matrices | Display how can the simulator will analyze the matrices. | 	1.	Which of the following don’t use matrices? <br>
-a. solving linear equation <br>
-b. image processing <br>
-c. graph theory <br>
-<b>d. sorting numbers </b>  <br>                      
-2. what is the order of the matrices? <br>
-  <b>a. no. of rows*no.of columns</b> <br>
-  b. no. of column*no. of rows  <br>
-  c. no.of rows*no. of rows  <br>
-  d. no.of columns* no. of columns  <br>                            
+2.| 	User will be able to describe Time Complexity		
+ | Show how time complexity works | 1.	What is the time complexity of n queens problem? <br><b>a.	o(n)</b> <br>b.	o(log) <br>c.	o(n^2) <br>d.	o(nlogn) <br>2.The complexity of Binary search algorithm is? <br>a.	o(n) <br><b>b.	o(log)</b> <br>c.	o(n^2) <br>d.	o(nlogn) <br>                                     
+3.| User will be able to analyze the matrices | Display how can the simulator will analyze the matrices. | 	1.	Which of the following don’t use matrices? <br>a. solving linear equation <br>b. image processing <br>c. graph theory <br><b>d. sorting numbers </b>  <br>2. what is the order of the matrices? <br><b>a. no. of rows*no.of columns</b> <br>b. no. of column*no. of rows  <br>c. no.of rows*no. of rows  <br>d. no.of columns* no. of columns  <br>                            
 
 
-4.|User can able to evaluate the place of queens in such a way that no queen attack each other | Show the working model of n-queen problem | 1.	In n queens problem how many values of n does not provide optimal solution? <br>
-a.	5 <br>
-<b>b.	2</b> <br>
-c.	6 <br>
-d.	4      <br>                                                                          
-2.	What is the domination number of 8 queens problem? <br>
-a.	8 <br>
-b.	7 <br>
-c.	6 <br>
-<b>d.	5</b> <br>
+4.|User can able to evaluate the place of queens in such a way that no queen attack each other | Show the working model of n-queen problem | 1.	In n queens problem how many values of n does not provide optimal solution? <br>a.	5 <br><b>b.	2</b> <br>c.	6 <br>d.	4      <br>2.	What is the domination number of 8 queens problem? <br>a.	8 <br>b.	7 <br>c.	6 <br><b>d.	5</b> <br>
 
 
 
