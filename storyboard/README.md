@@ -1,30 +1,85 @@
 ## Storyboard (Round 2)
 
-Delete this line before submission : The core principle of Round 2 is to make the lab/experiment documentation elaborated in a manner that it makes easy for any person (developer/domain and non domain faculty/student) to understand and develop the lab/experiment.
-
-Experiment 1: Name of the Experiment
-
+Experiment 1: N Queen Problem
 ### 1. Story Outline:
 
-Describe outline Here ( guide : The proposer should first draft the story outline for the proposed outline. This could be 2 or 3 paragraphs.)
+This problem is to find an arrangement of N queens on a chess board, such that no queen can attack any other queens on the board.
+The chess queens can attack in any direction as horizontal, vertical, horizontal and diagonal way.
+A binary matrix is used to display the positions of N Queens, where no queens can attack other queens.
 
 ### 2. Story:
 
-Describe the Story intorduction here (guide : The next step is to write a story. Story should be a brief logical description in simple English. It should talk about the overall execution of the experiment in a simplified manner. (should not include any equations/ drawings). The story should include the following points) )
+The N Queen is the problem of placing N chess queens on an N×N chessboard so that no two queens attack each other. For example, following is a solution for 4 Queen problem.
+The N Queen is the problem of placing N chess queens on an N×N chessboard so that no two queens attack each other. For example, following are two solutions for 4 Queen problem.
+	Q		
+			Q
+Q			
+		Q	
 
 #### 2.1 Set the Visual Stage Description:
-Describe here : (guide When a user lands up into a simulator, the visual stage is the first thing that user comes across. The visual stage should include all the elements to be seen by a user on an imaginary canvas.  (This should NOT include any drawings. ) )
+Input and Output
+Input:
+The size of a chess board. Generally, it is 8. as (8 x 8 is the size of a normal chess board.)
+Output:
+The matrix that represents in which row and column the N Queens can be placed.
+If the solution does not exist, it will return false.
+
+1 0 0 0 0 0 0 0
+0 0 0 0 0 0 1 0
+0 0 0 0 1 0 0 0
+0 0 0 0 0 0 0 1
+0 1 0 0 0 0 0 0
+0 0 0 1 0 0 0 0
+0 0 0 0 0 1 0 0
+0 0 1 0 0 0 0 0
+
+In this output, the value 1 indicates the correct place for the queens.
+The 0 denotes the blank spaces on the chess board.
 
 #### 2.2 Set User Objectives & Goals:
-Describe the objectives and goals in details here : (guide : The user should clearly understand the aims and objective of the experiment. ( how he will begin experiment. ?  in descriptive))
+User will be able to explain Backtracking algorithm.
+User will be able to describe Time Complexity
+User will be able toanalyze the matrices.
+User can able to evaluate the place of queens in such a way that no queen attack each other
+
 
 #### 2.3 Set the Pathway Activities:
 
-Describe the pathway activites here : (Guide : Set the pathway activities in line with the learning objectives (LOs)  & with a view to achieve the goals set in round #0 & round#1.  (once he begins, how he will traverse through the entire experiment ? in descriptive))
+isValid(board, row, col)
+Input: The chess board, row and the column of the board.
+Output − True when placing a queen in row and place position is a valid or not.
+Begin
+   if there is a queen at the left of current col, then
+      return false
+   if there is a queen at the left upper diagonal, then
+      return false
+   if there is a queen at the left lower diagonal, then
+      return false;
+   return true //otherwise it is valid place
+End
+solveNQueen(board, col)
+Input − The chess board, the col where the queen is trying to be placed.
+Output −  The position matrix where queens are placed.
+Begin
+   if all columns are filled, then
+      return true
+   for each row of the board, do
+      if isValid(board, i, col), then
+         set queen at place (i, col) in the board
+         if solveNQueen(board, col+1) = true, then
+            return true
+         otherwise remove queen from place (i, col) from board.
+   done
+   return false
+End
+
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
 
-Describe the challenges Here : (guide : Set Challenges and Questions/Complexity/variations in questions according to User’s level, so as to invoke the learners’ interest.  (while traversing, what challenges he will face? how he has to solve and overcome ? descriptive).)
+Challenges:No queen will attack each other.
+
+Questions/Complexity/Variation:There can be multiple solutions, so we have to check all solutions.
+
 
 ##### 2.5 Allow pitfalls:
 Describe the pitfalls here: (guide : (while traversing or while solving challenge, how will we bring a situation in front of him that he commits mistake if he is not attentive , or not following procedure , descriptive))
