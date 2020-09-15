@@ -60,7 +60,7 @@ Describe conclusion here : (guide: This may include displaying: how much time di
 ##### 2.7 Equations/formulas: NA
 
 ### 3. Flowchart 4
-<img src="flowchart/flowchart.png"><br>
+<img src="flowchart/Flowchart.png"><br>
 
 ### 4. Mindmap:
 <img src="mindmap/Mind Map.png">
