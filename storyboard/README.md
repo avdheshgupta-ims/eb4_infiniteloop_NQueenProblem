@@ -60,10 +60,10 @@ Describe conclusion here : (guide: This may include displaying: how much time di
 ##### 2.7 Equations/formulas: NA
 
 ### 3. Flowchart 4
-<img src="<img src="flowchart/flowchart.png"/><br>"/><br>
+<img src="flowchart/flowchart.png"><br>
 
 ### 4. Mindmap:
-<img src="mindmap/mindmap.png"/>
+<img src="mindmap/mindmap.png">
  
 ### 5. Storyboard :
 Storyboard: <a href="Storyboard/carwiper.gif"> [here]</a>
