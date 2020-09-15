@@ -63,7 +63,7 @@ Describe conclusion here : (guide: This may include displaying: how much time di
 <img src="flowchart/flowchart.png"><br>
 
 ### 4. Mindmap:
-<img src="mindmap/mindmap.png">
+<img src="mindmap/Mind Map.png">
  
 ### 5. Storyboard :
 Storyboard: <br>
