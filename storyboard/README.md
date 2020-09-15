@@ -17,94 +17,53 @@ Q
 		Q	
 
 #### 2.1 Set the Visual Stage Description:
-Input and Output
-Input:
-The size of a chess board. Generally, it is 8. as (8 x 8 is the size of a normal chess board.)
-Output:
-The matrix that represents in which row and column the N Queens can be placed.
-If the solution does not exist, it will return false.
-
-1 0 0 0 0 0 0 0
-0 0 0 0 0 0 1 0
-0 0 0 0 1 0 0 0
-0 0 0 0 0 0 0 1
-0 1 0 0 0 0 0 0
-0 0 0 1 0 0 0 0
-0 0 0 0 0 1 0 0
-0 0 1 0 0 0 0 0
-
-In this output, the value 1 indicates the correct place for the queens.
-The 0 denotes the blank spaces on the chess board.
+1. Stimulator Screen, divided into three parts.
+2. The very first part to the left contains input part which is then subdivided into three parts.
+3. First subdivided part contains Radio buttons for Modes selection.
+4. Second subdivided part contains Radio buttons for Speed selection.
+5. Third subdivided part contains drop down for Board size.
+6. The second part of the stimulator contains output part which is then subdivided into two parts.
+7. First subdivided part shows the no of solutions.
+8. Second subdivided part shows the position of Queens.
+9. The third part of the screen shows the stimulation of Queens on the board.
 
 #### 2.2 Set User Objectives & Goals:
-User will be able to explain Backtracking algorithm.
-User will be able to describe Time Complexity
-User will be able toanalyze the matrices.
-User can able to evaluate the place of queens in such a way that no queen attack each other
+1. By this experiment, User will be able to explain Backtracking algorithm.
+2. User will be able to describe Time Complexity
+3. User will be able toanalyze the matrices.
+4. User can be able to evaluate the place of queens in such a way that no queen attack each other
 
 
 #### 2.3 Set the Pathway Activities:
-
-isValid(board, row, col)
-Input: The chess board, row and the column of the board.
-Output − True when placing a queen in row and place position is a valid or not.
-Begin
-   if there is a queen at the left of current col, then
-      return false
-   if there is a queen at the left upper diagonal, then
-      return false
-   if there is a queen at the left lower diagonal, then
-      return false;
-   return true //otherwise it is valid place
-End
-solveNQueen(board, col)
-Input − The chess board, the col where the queen is trying to be placed.
-Output −  The position matrix where queens are placed.
-Begin
-   if all columns are filled, then
-      return true
-   for each row of the board, do
-      if isValid(board, i, col), then
-         set queen at place (i, col) in the board
-         if solveNQueen(board, col+1) = true, then
-            return true
-         otherwise remove queen from place (i, col) from board.
-   done
-   return false
-End
+1. When the user will click on the simulator, simulator screen will be open up. The user will see three options on screen.
+2. Firstly user will choose the size of board.
+3. Then user will choose the mode of stimulation.
+4. Then user will choose the speed of simulation.
+5. According to the selction of mode stimulator will start to perform its action.
+6. If manual mode is selected, user will have to solve the puzzle by placing queens.
+7. If stimulation mde is selected, placement of queens will be started.
+8. Then No. of solutions and position of Queens placed will be displayed.
 
 
 ##### 2.4 Set Challenges and Questions/Complexity/Variations in Questions:
 
-Challenges:No queen will attack each other.
-
+Challenges:No queen should attack each other vertically, horizontally or diagonally.
 Questions/Complexity/Variation:There can be multiple solutions, so we have to check all solutions.
 
 
 ##### 2.5 Allow pitfalls:
-Describe the pitfalls here: (guide : (while traversing or while solving challenge, how will we bring a situation in front of him that he commits mistake if he is not attentive , or not following procedure , descriptive))
+NA
 
 ##### 2.6 Conclusion:
 Describe conclusion here : (guide: This may include displaying: how much time did the user take to solve the questions/ How many questions were right?/ How many hints did the learner use. Based on this the evaluation/marking to be suggested to the user. (once he is towards the completion of the experiment, what LO he is taking along with him, what will be his probable, interpretation/conclusion , descriptive) )
 
 ##### 2.7 Equations/formulas: NA
-Type equations here : (guide : ( a separate sheet having equations / programs for the lab exper3ment to be shared along with the Story submissions (1) . You can mark it as numerical reference numbers within the story narration (like we cite in the research papers) and then separately share these equations/programs sheets as a reference, do not include the equations as a whole in the narration))
-Tool can be used to integrate formula in Markdown <b> [here](http://latex.codecogs.com/eqneditor/samples/example3.php) </b>
-
 
 ### 3. Flowchart 4
 <img src="<img src="flowchart/flowchart.png"/><br>"/><br>
-link to flow chart Here : Store in the  /flowchart folder within Round2 folder in your repo
-<br>
-(guide :The lab proposer should extract logic from the story, prepare a flowchart from the story narration and write the algorithm to execute the black box.  use Google Drawings https://docs.google.com/drawings/ (send the link to your flowchart and also attach .png by exporting it )
 
 ### 4. Mindmap:
 <img src="mindmap/mindmap.png"/>
- Link to mindmap here : Store the mindmap in both .mm & .png extension in the  /mindmap folder and include link of only .pdf verison here
- <br>
- (guide : An elaborate mind map (connecting all the points in the experiment flow ) should be prepared and submitted by the lab proposer. The mind map should be a clear and detailed document that takes into account all minute intri5acies involved in the development of virtual lab. The mindmap should be self-content and any developer across the globe should be able to code it with all those details. using only FreeMind http://freemind.sourceforge.net/wiki/index.php/Main_Page (send the .png file and also the original .mm extension project file. )
-
+ 
 ### 5. Storyboard :
 Storyboard: <a href="Storyboard/carwiper.gif"> [here]</a>
-Link to storybaord (.gif file ) here :
-(guide: This document should include sketching and description scene wise (duration, action, description). Software to be used for storyboarding : https://wonderunit.com/storyboarder/ (Its a FOSS tool) . tutorial on how to use it https://www.youtube.com/watch?v=LAeCEpG0KX4
