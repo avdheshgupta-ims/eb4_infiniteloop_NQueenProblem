@@ -66,4 +66,5 @@ Describe conclusion here : (guide: This may include displaying: how much time di
 <img src="mindmap/mindmap.png">
  
 ### 5. Storyboard :
-Storyboard: <a href="Storyboard/carwiper.gif"> [here]</a>
+Storyboard: <br>
+<a href="Storyboard/carwiper.gif">CLICK</a>
