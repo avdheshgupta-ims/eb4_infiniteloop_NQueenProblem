@@ -93,4 +93,4 @@ Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 1.| Show with simulation of the algorithm with an example | Simulate sorting with and example	Learn sorting  |Learn sorting
 2.| Show how time complexity works		 | Calculate how time complexity calculated  | To learn how time complexity calculated
 3.| Display how can the simulator will analyze the matrices.		 | Simulator check and find the metrices | To know about the metrices
-4.| Show the working model of N-queen problem		| Simulate N-queen problem and show the result | Learn how the n queen problem works
+4.| Show the working model of N-queen problem	 	| Simulate N-queen problem and show the result | Learn how the n queen problem works
