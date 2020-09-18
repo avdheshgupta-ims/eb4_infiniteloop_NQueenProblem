@@ -1,0 +1,146 @@
+
+* {
+    padding: 0;
+    margin: 0;
+}
+
+body {
+ background-image: url(/images/design.jpeg);
+ font-family: Verdana, Arial, Helvetica, sans-serif;
+ font-size: 11px;
+ line-height: 20px;
+ color: #aaa;
+ 
+}
+.box{
+    margin: 50px auto;
+    padding: 20px;
+    width: 240px;
+    height: 240px;
+    border: 30px solid;
+    
+}
+
+h1 {
+    margin-top: 20px;
+  font-size: 40px;
+  color: #fff;
+  text-align: center;
+  text-shadow: 0 0 5px #fff, 0 0 10px #fff, 0 0 15px #0073e6, 0 0 20px #0073e6, 0 0 25px #0073e6, 0 0 30px #0073e6, 0 0 35px #0073e6;
+}
+
+
+a { color: #97C4FF; text-decoration: none;}
+a:hover { text-decoration: underline; color : #aaa; }
+
+
+
+
+#box_0 {
+         background-color: rgb(14, 13, 13);
+         color: #000000;
+         margin: 5px auto 5px auto;
+         width: 1280px;
+}
+
+
+
+
+
+
+
+
+
+.brett {border:1px solid;
+    margin-top: 90px;
+    position: absolute;
+    left:50px;
+}
+
+.c1 {border:0px solid ;background-color: black; width: 60px; height: 60px; background-repeat: no-repeat; background-position:center;}
+
+.c2 {border:0px solid; background-color: white; width: 60px; height: 60px;background-repeat: no-repeat; background-position:center;}
+
+#oTableContainer {float: left;}
+#brettsize{
+    width:200px;
+                font-size: 1.8em;
+                color:black;
+                
+                margin-top: 1em;
+                margin-left:3.2em;
+}
+div.s{
+    margin-top: 50px;
+width:300px;
+position: absolute;
+right:330px;
+bottom: -7px;
+height: 520px;
+border: 5px double rgb(0, 0, 8);
+   
+}
+.s{
+    width:200px;
+                font-size: 1.8em;
+                color:black;
+                text-align: center;
+                margin-top: 1em;
+                margin-left:3em;
+}
+#veloFormular { width:150px;
+                font-size: 1.8em;
+                color:black;
+                display:block;
+                margin-top: 1em;
+                margin-right:3.2em;}
+
+#mode_form { width:150px;
+                font-size: 1.8em;
+                color:black;
+                display:block;
+                margin-top: 3em;
+                margin-right:1em;
+                
+
+}
+
+.r1{
+    -ms-transform: scale(1.2); 
+    -webkit-transform: scale(1.2);
+    transform: scale(1.2);
+}
+div.cockpit {
+    margin-top: 50px;
+width:300px;
+position: absolute;
+right :50px;
+bottom: -10px;
+height: 520px;
+
+border: 5px double black;
+}
+
+#container { width:400px;
+                font-size: 0.7em;
+                color:black;
+                display:block;
+                
+                margin-right:4.5em;
+                line-height: 1.2;
+                letter-spacing: -1.5px;}
+
+#links {float:left;}
+#mitte {float:left;}
+#rechts {float:left;}
+#liste{
+    width:150px;
+    font-size: 1em;
+                color:black;
+                display:block;
+                margin-top: 0.5em;
+                margin-left:0em;
+
+}
+
+
