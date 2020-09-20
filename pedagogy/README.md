@@ -41,7 +41,7 @@ Sr. No |	Learning Objective	| Cognitive Level | Action Verb
 
 <a name="IS"></a>
 #### 3. Instructional Strategy
-###### Name of Instructional Strategy  :    <u> Problem Based
+###### Name of Instructional Strategy  :    <u> Reinforce theoretical concepts: The user understands topics after seeing the simulator visually, and learn/recall their knowledge
 ###### Assessment Method: Formative Assessment
 
 <u> <b>Description: </b> The user will learn and examine the problem, recall the understanding and apply to fix the place of queens in such a way that no queen attack each other. <br> <b>Simulator:</b>
@@ -90,7 +90,7 @@ Sr. No |	Learning Objective	| Task to be performed by <br> the student  in the s
 
 Sr.No | What Students will do? |	What Simulator will do?	| Purpose of the task
 :--|:--|:--|:--:
-1.| Show with simulation of the algorithm with an example | Simulate sorting with and example	Learn sorting  |Learn sorting
-2.| Show how time complexity works		 | Calculate how time complexity calculated  | To learn how time complexity calculated
-3.| Display how can the simulator will analyze the matrices.		 | Simulator check and find the metrices | To know about the metrices
-4.| Show the working model of N-queen problem	 	| Simulate N-queen problem and show the result | Learn how the n queen problem works
+1.| Click on Simulation button | Simulation page display and speed of simulation, size of checker board and manual/auto options. | to show the requiremnt of simulation
+2.| Click on Auto or manual/ adjust the Speed of simulator, adjust the size of chekerboard	 | In auto mode, the simulator find all possible solutions, speed ajust the simulation speed, size of checker board display the checkker board size   | To show how the option will work and show simulation
+3.| the user can see the solution on auto mode, the user can able to place the queen at right place | in Auto mode, it show the number of solution, in amnual mode, the user can do the quiz/puzzle to find the solutions | To learn about multiple possible solutions.
+4.| The user can clear and simulate again 	| Simulator show another solution | Learn how the n queen problem works
