@@ -2,44 +2,44 @@
 
    "details": [
        {
-			"Experiment": "",     
-			"Lab": "",               
-			"Discipline": "",				 
-			"Technology": ""         
+			"Experiment": "N Queen Problem",     
+			"Lab": "DATA AND ANALYSIS OF ALGORITHM LAB",               
+			"Discipline": "COMPUTER SCIENCE AND ENGINEERING/INFORMATION TECHNOLOGY",				 
+			"Technology": "HTML, CSS, JAVA Script"         
        }
    ],
 
    "developer": [
        {       
-      "Developer": "",         
-      "Institute": "",         
-      "InstituteAcronym": ""   
+      "Developer": "Dr. Avdhesh Gupta",         
+      "Institute": "IMS Engineering College",         
+      "InstituteAcronym": "IMSEC"   
        }
    ],
 
    "contributer": [
        {       
-			"Contributer": "",             
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Ishika Mittal",             
+     			"Institute": "IMS Engineering College",         
+      			"InstituteAcronym": "IMSEC"         
        },
 
        {       
-			"Contributer": "",              
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Mukul Aggarwal",              
+     			"Institute": "IMS Engineering College",         
+      			"InstituteAcronym": "IMSEC"        
        },
 
        {       
-			"Contributer": "",             
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Mansi Chauhan",             
+     			"Institute": "IMS Engineering College",         
+      			"InstituteAcronym": "IMSEC"        
        },
 
        {       
-			"Contributer": "",              
-      "Institute": "",               
-			"InstituteAcronym": ""         
+			"Contributer": "Mukul Goel",              
+     			"Institute": "IMS Engineering College",         
+      			"InstituteAcronym": "IMSEC"        
        }
    ]
 
