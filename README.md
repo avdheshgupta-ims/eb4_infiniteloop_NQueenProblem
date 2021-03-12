@@ -35,11 +35,11 @@ Dr. APJ Abdul Kalam Technical University, Luckhnow.
 
 #### Mentor Details
 
-<b>Mentored by | <b> T Siva Senthil Subramanian
+<b>Mentored by | <b> Dr. Ramesh Sharma 
 :--|:--|
-<b> Institute | <b> Hindustan College of Science and Technology
-<b> Email id|     <b> tss.senthil.hcst@sgei.org
-<b> Department | Departments of Electronics and Instrumentation Engineering
+<b> Institute | <b> FGIET, Bareilly
+<b> Email id|     <b> sharmarameshfgiet@gmail.com
+<b> Department | Applied Science
 
 #### Contributors List
 
